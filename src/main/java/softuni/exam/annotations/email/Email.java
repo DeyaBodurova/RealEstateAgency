@@ -1,5 +1,6 @@
 package softuni.exam.annotations.email;
 
+//todo to fix email and emailvalidator
 
 import com.example.usersystem.constants.Constants;
 import org.springframework.stereotype.Component;
